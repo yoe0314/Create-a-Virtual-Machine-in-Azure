@@ -4,11 +4,11 @@
 [![hackmd-github-sync-badge](https://hackmd.io/P8trmX9zSvyvtTsmoL0ryQ/badge)](https://hackmd.io/P8trmX9zSvyvtTsmoL0ryQ)
 
 - [Create a Virtual Machine in Azure](#create-a-virtual-machine-in-azure)
-  * [1/ 建立VM](#1-建立-vm)
-  * [2/ Cloud Shell 登入VM](#2-cloud-shell-登入-vm)
-  * [3/ 本機PowerShell來停止或啟動VM](#3-本機-powershell-來停止或啟動-vm)
-  * [4/ 調整VM規格](#4-調整-vm-規格)
-  * [5/ 延伸VM功能](#5-延伸-vm-功能)
+  * [1/ 建立VM](#1-建立vm)
+  * [2/ Cloud Shell 登入VM](#2-cloud-shell-登入vm)
+  * [3/ 本機PowerShell來停止或啟動VM](#3-本機powershell來停止或啟動vm)
+  * [4/ 調整VM規格](#4-調整vm規格)
+  * [5/ 延伸VM功能](#5-延伸vm功能)
   * [Reference](#reference)
 
 本篇內容將透過Azure Portal來建立一台Linux VM，Cloud Shell 登入VM、使用本機PowerShell來停止或啟動VM、調整VM規格。
